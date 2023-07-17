@@ -1,5 +1,5 @@
 # PyMeteo
-Weather Station with a Pico W and CircuitPython
+Weather Station with a Pico W and CircuitPython and a Telegram Bot
 
 Required Libraries:
 simpleio.mpy
