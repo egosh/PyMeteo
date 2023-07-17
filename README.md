@@ -9,3 +9,4 @@ adafruit_bmp280.mpy,
 adafruit_bus_device,
 adadruit_bme280.
 
+I have to thanks @inopya for his help
